@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dhanashripalde13
-- 👀 I’m interested in Data Science| Machine Learning
-- 🌱 I’m currently learning B. E. in Information Technology
+- 👋 Hi, I’m Dhanashri Palde
+- 👀 Aspiring Data Scientist & Data Analyst
+- 🌱 I’m currently pursuing B. E. in Information Technology
 - 📫 Reach me on LinkedIn - https://www.linkedin.com/in/palde-dhanashri-rajesh-2b1648286
 
 <!---
