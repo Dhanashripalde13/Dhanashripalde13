@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanashri Palde
 - 👀 Aspiring Data Scientist & Data Analyst
-- 🌱 I’m currently pursuing B. E. in Information Technology
+- 🌱 B. E. in Information Technology Graduate
 - 📫 Reach me on LinkedIn - www.linkedin.com/in/dhanashri13
 
 <!---
